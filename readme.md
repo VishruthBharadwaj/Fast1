@@ -2,12 +2,12 @@
 # Simple Project to Fetch Data Of DummyRESTAPI Example Site
 
 
-# First Step:uvicorn main:app --reload
-When we execute First step we will get http://127.0.0.1:8000
-# Second Step: For Swagger UI  add /docs for  http://127.0.0.1:8000 i.e  http://127.0.0.1:8000/docs
+# First Step:docker-compose up
+When we execute First step we will get  Uvicorn running on http://0.0.0.0:80 
+# Second Step: go to http://127.0.0.1/docs
 
 
-
+# Now we will get Swagger with a)Get / Index b) Get /employee c) POST /employee d)POST /allemployee
 # In GET:employee: It will give data of DummyRESTAPIexample site user data
 # In POST:employee: It will allow us to create new user data and to post it.If user try to give same ID then itt will not take that data
 
