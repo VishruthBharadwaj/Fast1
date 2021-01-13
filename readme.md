@@ -30,10 +30,10 @@ d)POST /allemployee
 # I have used several reference for this project
 
 # For docker -- https://www.youtube.com/watch?v=YB3wDqPvctE
-
+# For FastAPI Basics -- https://www.youtube.com/watch?v=kCggyi_7pHg&t=1023s
 # For FastAPI and about Pydantic --  https://www.youtube.com/watch?v=ESVwKQLldjg
 
-And somemore Medium Articles
+# And somemore Medium Articles.
 
 
 
